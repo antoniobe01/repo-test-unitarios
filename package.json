@@ -1,0 +1,24 @@
+{
+  "name": "repo-test-unitarios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antoniobe01/repo-test-unitarios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/antoniobe01/repo-test-unitarios/issues"
+  },
+  "homepage": "https://github.com/antoniobe01/repo-test-unitarios#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
